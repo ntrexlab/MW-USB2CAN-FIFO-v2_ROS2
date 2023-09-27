@@ -1,0 +1,7 @@
+usb2can_fifo_node:
+  ros__parameters:
+    bitrate: 1000
+    filterID: 0
+    filterMask: 0
+    startupTransferMode: 1
+    busOffRecovery: 1
