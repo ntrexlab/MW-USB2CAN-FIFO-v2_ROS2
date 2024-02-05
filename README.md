@@ -4,3 +4,6 @@
 사용하기 전에 다음 명령어를 꼭 입력하시고 사용하세요.
 
 sudo rmmod ftdi_sio
+
+
+사용방법은 다음 링크를 참고해주세요 : https://blog.naver.com/idea_robot/223228053596
